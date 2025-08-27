@@ -1,0 +1,10 @@
+{
+  "carpet.rule.dropsIntoShulker.name": "Drops Into Shulker",
+  "carpet.rule.dropsIntoShulker.desc": "Automatically places dropped items into shulker boxes in player inventory. FALSE - Disable the feature. OFFHAND - Only check offhand shulker box. HOTBAR - Only check hotbar shulker boxes. INVENTORY - Only check inventory shulker boxes. ALL - Check all shulker boxes.",
+  "carpet.rule.dropsIntoShulker.category": "SCT",
+  "carpet.rule.dropsIntoShulker.false": "False",
+  "carpet.rule.dropsIntoShulker.offhand": "Offhand Only",
+  "carpet.rule.dropsIntoShulker.hotbar": "Hotbar Only",
+  "carpet.rule.dropsIntoShulker.inventory": "Inventory Only",
+  "carpet.rule.dropsIntoShulker.all": "All Shulkers"
+}

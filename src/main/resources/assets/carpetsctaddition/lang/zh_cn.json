@@ -1,0 +1,10 @@
+{
+  "carpet.rule.dropsIntoShulker.name": "掉落物品进潜影盒",
+  "carpet.rule.dropsIntoShulker.desc": "自动将掉落的物品放入玩家物品栏中的潜影盒。False - 禁用此功能。副手 - 仅检查副手潜影盒。物品栏 - 仅检查物品栏潜影盒。背包 - 仅检查背包潜影盒。全部 - 检查所有潜影盒。",
+  "carpet.rule.dropsIntoShulker.category": "SCT",
+  "carpet.rule.dropsIntoShulker.false": "False",
+  "carpet.rule.dropsIntoShulker.offhand": "仅副手",
+  "carpet.rule.dropsIntoShulker.hotbar": "仅物品栏",
+  "carpet.rule.dropsIntoShulker.inventory": "仅背包",
+  "carpet.rule.dropsIntoShulker.all": "全部潜影盒"
+}
