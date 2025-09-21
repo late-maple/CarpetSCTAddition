@@ -13,4 +13,7 @@ public class SCTSettings {
 
     @Rule(categories = {SCT})
     public static DropsIntoShulkerMode dropsIntoShulker = DropsIntoShulkerMode.FALSE;
+
+    @Rule(categories = {SCT} )
+    public static boolean explosionProtectionAreas = false;
 }

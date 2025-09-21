@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "carpetsctaddition",
+	"id": "carpet-sct-addition",
 	"version": "${version}",
 	"name": "CarpetSCTAddition",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A fabric-carpet extension mod. It offers some interesting and useful features.",
 	"authors": [
-		"Me!"
+		"late_maple"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -20,8 +20,7 @@
 		]
 	},
 	"mixins": [
-		"carpetsctaddition.mixins.json",
-		"carpetsctaddition.dropsintoshulker.mixins.json"
+		"carpetsctaddition.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",

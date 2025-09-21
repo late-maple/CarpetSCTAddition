@@ -1,4 +1,4 @@
-package sct.carpetsctadditon.dropsintoshulker.mixin;
+package sct.carpetsctadditon.mixin;
 
 import net.minecraft.block.entity.ShulkerBoxBlockEntity;
 import net.minecraft.item.ItemStack;

@@ -6,5 +6,16 @@
   "carpet.rule.dropsIntoShulker.offhand": "Offhand Only",
   "carpet.rule.dropsIntoShulker.hotbar": "Hotbar Only",
   "carpet.rule.dropsIntoShulker.inventory": "Inventory Only",
-  "carpet.rule.dropsIntoShulker.all": "All Shulkers"
+  "carpet.rule.dropsIntoShulker.all": "All Shulkers",
+  "carpet.rule.explosionProtectionAreas.name": "Explosion Protection Areas",
+  "carpet.rule.explosionProtectionAreas.desc": "Enable to set explosion protection areas where explosions won't destroy blocks",
+  "carpetsctaddition.command.explosionprotection.not_enabled": "Explosion protection areas feature is not enabled, please enable explosionProtectionAreas in carpet settings first",
+  "carpetsctaddition.command.explosionprotection.radius.added": "Successfully added explosion protection area centered on player with radius %d",
+  "carpetsctaddition.command.explosionprotection.area.added": "Successfully added explosion protection area from %s to %s",
+  "carpetsctaddition.command.explosionprotection.list.empty": "No explosion protection areas have been set",
+  "carpetsctaddition.command.explosionprotection.list.count": "There are %d explosion protection areas:",
+  "carpetsctaddition.command.explosionprotection.list.entry": "%d: From %s to %s",
+  "carpetsctaddition.command.explosionprotection.del.invalid_index": "Index out of range, there are only %d explosion protection areas",
+  "carpetsctaddition.command.explosionprotection.del.success": "Successfully removed explosion protection area with index %d",
+  "carpetsctaddition.command.explosionprotection.clear.success": "Successfully cleared all explosion protection areas"
 }

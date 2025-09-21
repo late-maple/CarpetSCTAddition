@@ -13,6 +13,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import java.util.Map;
 import com.google.gson.JsonElement;
+import sct.carpetsctadditon.commands.ExplosionProtectionCommand;
 import sct.carpetsctadditon.dropsintoshulker.DropsConfig;
 import sct.carpetsctadditon.commands.DropsIntoShulkerCommand;
 
@@ -43,6 +44,7 @@ public class CarpetSCTAddition implements CarpetExtension, ModInitializer {
         // 注册命令
         CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> {
             DropsIntoShulkerCommand.register(dispatcher);
+			ExplosionProtectionCommand.register(dispatcher);
         });
 	}
 

@@ -129,7 +129,7 @@ public abstract class PlayerInventoryMixin implements Inventory, Nameable {
 
             // 如果物品有变动，更新潜影盒
             if (remainder.getCount() != collected.getCount()) {
-                shulkerItem.set(DataComponentTypes.CONTAINER, ContainerComponent.fromStacks(((sct.carpetsctadditon.dropsintoshulker.mixin.ShulkerBoxBlockEntityAccessor) sEntity).getInventory()));
+                shulkerItem.set(DataComponentTypes.CONTAINER, ContainerComponent.fromStacks(((sct.carpetsctadditon.mixin.ShulkerBoxBlockEntityAccessor) sEntity).getInventory()));
                 // 触发成就
                 if (player instanceof ServerPlayerEntity) {
                     Criteria.INVENTORY_CHANGED.trigger((ServerPlayerEntity) player, player.getInventory(), collected);

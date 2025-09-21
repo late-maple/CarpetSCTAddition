@@ -4,7 +4,9 @@
   "package": "sct.carpetsctadditon.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "PlayerInventoryMixin"
+    "PlayerInventoryMixin",
+    "ShulkerBoxBlockEntityAccessor",
+    "ExplosionMixin"
   ],
   "client": [
   ],

@@ -6,5 +6,15 @@
   "carpet.rule.dropsIntoShulker.offhand": "仅副手",
   "carpet.rule.dropsIntoShulker.hotbar": "仅物品栏",
   "carpet.rule.dropsIntoShulker.inventory": "仅背包",
-  "carpet.rule.dropsIntoShulker.all": "全部潜影盒"
+  "carpet.rule.explosionProtectionAreas.name": "防爆区域",
+  "carpet.rule.explosionProtectionAreas.desc": "启用后可设置防爆区域，区域内的爆炸不会破坏方块",
+  "carpetsctaddition.command.explosionprotection.not_enabled": "区域防爆功能未启用，请先在carpet设置中启用explosionProtectionAreas",
+  "carpetsctaddition.command.explosionprotection.radius.added": "成功添加以玩家位置为中心，半径为%d的防爆区域",
+  "carpetsctaddition.command.explosionprotection.area.added": "成功添加从 %s 到 %s 的防爆区域",
+  "carpetsctaddition.command.explosionprotection.list.empty": "当前没有设置任何防爆区域",
+  "carpetsctaddition.command.explosionprotection.list.count": "当前共有 %d 个防爆区域:",
+  "carpetsctaddition.command.explosionprotection.list.entry": "%d: 从 %s 到 %s",
+  "carpetsctaddition.command.explosionprotection.del.invalid_index": "索引超出范围，当前只有 %d 个防爆区域",
+  "carpetsctaddition.command.explosionprotection.del.success": "已移除索引为 %d 的防爆区域",
+  "carpetsctaddition.command.explosionprotection.clear.success": "已清除所有防爆区域"
 }
