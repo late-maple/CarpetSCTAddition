@@ -18,7 +18,7 @@ import sct.carpetsctadditon.dropsintoshulker.DropsConfig;
 import sct.carpetsctadditon.commands.DropsIntoShulkerCommand;
 
 public class CarpetSCTAddition implements CarpetExtension, ModInitializer {
-	private static final String MOD_ID = "carpetsctaddition";
+	private static final String MOD_ID = "carpet-sct-addition";
 	private static final String MOD_NAME = "CarpetSCTAddition";
 	private static String version;
 
