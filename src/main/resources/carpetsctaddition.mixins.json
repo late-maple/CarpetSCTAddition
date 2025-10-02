@@ -6,7 +6,8 @@
   "mixins": [
     "PlayerInventoryMixin",
     "ShulkerBoxBlockEntityAccessor",
-    "ExplosionMixin"
+    "ExplosionMixin",
+    "DrownedEntityMixin"
   ],
   "client": [
   ],

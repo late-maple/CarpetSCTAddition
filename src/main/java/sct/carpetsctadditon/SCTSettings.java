@@ -16,4 +16,7 @@ public class SCTSettings {
 
     @Rule(categories = {SCT} )
     public static boolean explosionProtectionAreas = false;
+
+    @Rule(categories = {SCT})
+    public static boolean disableDrownedSwimming = false;
 }

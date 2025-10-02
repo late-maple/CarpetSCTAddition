@@ -17,5 +17,7 @@
   "carpetsctaddition.command.explosionprotection.list.entry": "%d: From %s to %s",
   "carpetsctaddition.command.explosionprotection.del.invalid_index": "Index out of range, there are only %d explosion protection areas",
   "carpetsctaddition.command.explosionprotection.del.success": "Successfully removed explosion protection area with index %d",
-  "carpetsctaddition.command.explosionprotection.clear.success": "Successfully cleared all explosion protection areas"
+  "carpetsctaddition.command.explosionprotection.clear.success": "Successfully cleared all explosion protection areas",
+  "carpet.rule.disableDrownedSwimming.name": "disableDrownedSwimming",
+  "carpet.rule.disableDrownedSwimming.desc": "Disable drowned swimming"
 }

@@ -16,5 +16,7 @@
   "carpetsctaddition.command.explosionprotection.list.entry": "%d: 从 %s 到 %s",
   "carpetsctaddition.command.explosionprotection.del.invalid_index": "索引超出范围，当前只有 %d 个防爆区域",
   "carpetsctaddition.command.explosionprotection.del.success": "已移除索引为 %d 的防爆区域",
-  "carpetsctaddition.command.explosionprotection.clear.success": "已清除所有防爆区域"
+  "carpetsctaddition.command.explosionprotection.clear.success": "已清除所有防爆区域",
+  "carpet.rule.disableDrownedSwimming.name": "禁止溺尸游泳",
+  "carpet.rule.disableDrownedSwimming.desc": "禁止溺尸游泳"
 }
