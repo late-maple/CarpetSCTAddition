@@ -19,5 +19,7 @@
   "carpetsctaddition.command.explosionprotection.del.success": "Successfully removed explosion protection area with index %d",
   "carpetsctaddition.command.explosionprotection.clear.success": "Successfully cleared all explosion protection areas",
   "carpet.rule.disableDrownedSwimming.name": "disableDrownedSwimming",
-  "carpet.rule.disableDrownedSwimming.desc": "Disable drowned swimming"
+  "carpet.rule.disableDrownedSwimming.desc": "Disable drowned swimming",
+  "carpet.rule.CustomItemDiscardAge.name": "CustomItemDiscardAge",
+  "carpet.rule.CustomItemDiscardAge.desc": "Custom Item DiscardAge"
 }

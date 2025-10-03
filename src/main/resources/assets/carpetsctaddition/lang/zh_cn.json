@@ -18,5 +18,7 @@
   "carpetsctaddition.command.explosionprotection.del.success": "已移除索引为 %d 的防爆区域",
   "carpetsctaddition.command.explosionprotection.clear.success": "已清除所有防爆区域",
   "carpet.rule.disableDrownedSwimming.name": "禁止溺尸游泳",
-  "carpet.rule.disableDrownedSwimming.desc": "禁止溺尸游泳"
+  "carpet.rule.disableDrownedSwimming.desc": "禁止溺尸游泳",
+  "carpet.rule.CustomItemDiscardAge.name": "自定义掉落物消失时间",
+  "carpet.rule.CustomItemDiscardAge.desc": "自定义掉落物消失时间"
 }

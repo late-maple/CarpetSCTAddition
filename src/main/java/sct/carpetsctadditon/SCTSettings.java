@@ -1,8 +1,8 @@
 package sct.carpetsctadditon;
 
-import carpet.CarpetExtension;
+
 import carpet.api.settings.Rule;
-import carpet.api.settings.Validators;
+
 
 public class SCTSettings {
     public static final String SCT = "SCT";
@@ -19,4 +19,7 @@ public class SCTSettings {
 
     @Rule(categories = {SCT})
     public static boolean disableDrownedSwimming = false;
+
+    @Rule(categories = {SCT}, options = {"-1", "6000", "12000", "24000", "32000"}, strict = false )
+    public static int CustomItemDiscardAge = 6000;
 }
