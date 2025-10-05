@@ -6,6 +6,7 @@
   "carpet.rule.dropsIntoShulker.offhand": "仅副手",
   "carpet.rule.dropsIntoShulker.hotbar": "仅物品栏",
   "carpet.rule.dropsIntoShulker.inventory": "仅背包",
+  "carpet.rule.dropsIntoShulker.all": "全部潜影盒",
   "carpet.rule.explosionProtectionAreas.name": "防爆区域",
   "carpet.rule.explosionProtectionAreas.desc": "启用后可设置防爆区域，区域内的爆炸不会破坏方块",
   "carpetsctaddition.command.explosionprotection.not_enabled": "区域防爆功能未启用，请先在carpet设置中启用explosionProtectionAreas",

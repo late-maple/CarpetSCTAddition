@@ -13,7 +13,6 @@ import sct.carpetsctadditon.SCTSettings;
 import sct.carpetsctadditon.explosion.ExplosionProtectionManager;
 
 public class ExplosionProtectionCommand {
-    // 提供坐标建议的SuggestionProvider
     private static final SuggestionProvider<ServerCommandSource> POSITION_SUGGESTIONS = (context, builder) -> {
         BlockPos blockPos = context.getSource().getPlayer().getBlockPos();
         return builder.suggest(blockPos.getX()).suggest(blockPos.getY()).suggest(blockPos.getZ()).buildFuture();
